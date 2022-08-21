@@ -18,4 +18,4 @@ Repo for all the note for clarinet-learning
 - 吹C的時候阻力很大, 有時候可以透過喬角度吹出來, 但是聲音就很高
 # Step
 
-- 
+Vandoren 豎笛/黑管 竹片 V5藍盒 2號半 2.5 竹片（10片/盒）Clarinet 單簧管【型號：CR1025】 - 小新樂器館 | 樂器購物官網,小新吉他館,創立於1999年 | 大台北實體樂器行
