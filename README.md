@@ -13,6 +13,7 @@ Repo for all the note for clarinet-learning
 
 練習：吹笛頭，嘗試控制吹出兩種不同的音高
 
+心得：一想用力就是不對的，必須立刻放掉
 
 # Question
 - 吹C的時候阻力很大, 有時候可以透過喬角度吹出來, 但是聲音就很高
