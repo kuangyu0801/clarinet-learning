@@ -1,6 +1,20 @@
 # clarinet-learning
 Repo for all the note for clarinet-learning
 
+# 8.23
+
+- 組裝注意：竹片在吹嘴下面一點點，還可以靠上面
+- 兩隻手按緊確認有連動
+- 好的聲音用下頷部分共振（吹嘴向後延伸處），避免用喉嚨共振
+- 點音 （在那一拍結束的時候要把舌頭果決放上去）
+點音是想T
+舌尖輕點竹片
+練習舌頭控制可以發：ㄉ ㄩ
+氣不能停
+先吹後擋、先擋後吹
+第一個音一定是要點（先把舌頭放在上面）
+手指要低，越低越好，方面移動
+- 練習：[課本lesson 2](doc/student/lesson2.jpeg)
 
 # 8.16
 樂器來跟嘴，不是嘴追樂器
@@ -18,5 +32,10 @@ Repo for all the note for clarinet-learning
 # Question
 - 吹C的時候阻力很大, 有時候可以透過喬角度吹出來, 但是聲音就很高
 # Step
+
+# Master
+Artie Shaw
+
+# Equipment
 
 Vandoren 豎笛/黑管 竹片 V5藍盒 2號半 2.5 竹片（10片/盒）Clarinet 單簧管【型號：CR1025】 - 小新樂器館 | 樂器購物官網,小新吉他館,創立於1999年 | 大台北實體樂器行
