@@ -21,7 +21,7 @@ Repo for all the note for clarinet-learning
 第一個音一定是要點（先把舌頭放在上面）
 手指要低，越低越好，方面移動
 - 練習：[課本lesson 2](doc/student-level-1/lesson2.jpeg)
-
+- 從慢點音, 到快點音, 吹->點
 
 
 # 8.16
