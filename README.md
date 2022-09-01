@@ -66,3 +66,5 @@ Artie Shaw
 # Equipment
 
 Vandoren 豎笛/黑管 竹片 V5藍盒 2號半 2.5 竹片（10片/盒）Clarinet 單簧管【型號：CR1025】 - 小新樂器館 | 樂器購物官網,小新吉他館,創立於1999年 | 大台北實體樂器行
+
+- [5 Major Parts Of A Clarinet You Need To Know](https://phamoxmusic.com/parts-of-a-clarinet/)
