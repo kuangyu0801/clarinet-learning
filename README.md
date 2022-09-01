@@ -1,6 +1,13 @@
 # clarinet-learning
 Repo for all the note for clarinet-learning
 
+# 9.15
+
+練習心得：
+- 追求的是要一次到位！吹速一上來就有準音，並且很平穩維持
+- 可以把手指貼在上顎，試著用舌頭去頂
+- 送氣千萬不要用力
+
 # 8.30
 
 - 換綁嘴
@@ -15,7 +22,7 @@ Repo for all the note for clarinet-learning
  - [lesson 3] la 食指向上扳, 力求能快速在so la之間切換
  - [lesson 2] fa -> re 轉換
  - 空吹不要發出聲音，加速氣一次到位
- - 舌根靠上，氣吹直並且一次到位
+ - 舌根靠上，氣吹直並且一次到位，感受好聲音（舌根在上vs舌根在下）
 
 # 8.23
 
