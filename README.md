@@ -1,6 +1,21 @@
 # clarinet-learning
 Repo for all the note for clarinet-learning
 
+# 9.20
+
+上課內容:
+ - 共鳴位置更高E發音，舌根更上面
+ - 調整氣，找到好音色（想E然後舌頭盡量往上顎頂 
+ - 第一口氣就要吹到位（往深處吹、速度快），前一小節呼吸（數1,2,3,4吸口氣)
+ - 學會換氣！
+ - E A轉換必要不靠點音一步到位, 只能動小指
+ - 空手先想好指法
+
+功課：lesson-5: 尤其是ex.10
+問題：
+- 進度：還是要把整本課本基礎先練好、音階：轉換
+- [These are the 10 best clarinet works in existence (end of debate)](https://www.classicfm.com/discover-music/instruments/clarinet/features/best-clarinet-pieces/)
+
 # 9.15
 
 上課內容
