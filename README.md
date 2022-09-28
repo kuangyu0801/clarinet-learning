@@ -1,6 +1,16 @@
 # clarinet-learning
 Repo for all the note for clarinet-learning
 
+# 9.27
+
+上課內容:
+- 調音！（tunable app)
+    - 嘴型更集中
+    - 整塊舌頭往上貼(跟發E的音)
+    - 調音器練習 (A, 442, +/- 15 cent)
+    - 不要咬太緊，可以頂深一點
+要hold住, 通常是一開始會準, 然後開始flat
+Duet in lesson 6
 # 9.20
 
 上課內容:
