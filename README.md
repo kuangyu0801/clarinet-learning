@@ -1,6 +1,18 @@
 # clarinet-learning
 Repo for all the note for clarinet-learning
 
+# 10.4
+
+上課內容：
+- 氣足氣快舌頭少, 避免吹出破音
+- 泛音：低高音差12度，E直接升成B
+    - 低音E 建議兩手都要按，方便E、F轉換，要維持住吹低音的氣柱
+![](doc/Clarinet-fingering-chart-1.jpeg)
+- 不要咬太緊，不然吹不上氣
+- 困難指法
+- lesson 6: 6, 7
+- lesson 7: 點音與連音
+
 # 9.27
 
 上課內容:
