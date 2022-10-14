@@ -1,6 +1,19 @@
 # clarinet-learning
 Repo for all the note for clarinet-learning
 
+# Practice
+
+- 難練地方
+- 低音E -> A
+- 低音F -> A
+- 低音C -> A
+
+# 10.13
+上課內容：
+- 泛音
+- 點舌（附點）：ㄉ--ㄉㄉㄉ or ㄉㄉㄉ--ㄉ
+- 全身放鬆（嘴巴不要咬太緊，肚子用力，力量放在鎖骨，肩膀放下
+
 # 10.4
 
 上課內容：
