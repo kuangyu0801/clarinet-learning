@@ -1,6 +1,10 @@
 # clarinet-learning
 Repo for all the note for clarinet-learning
 
+# FAQ
+- 音吹不準：舌頭的位置要往上
+- 吹起來很費力，好像風速都沒辦法被轉成聲音：嘴巴要完全放鬆，用丹田出力
+
 # Practice
 
 - 難練地方
@@ -13,6 +17,7 @@ Repo for all the note for clarinet-learning
 - 泛音
 - 點舌（附點）：ㄉ--ㄉㄉㄉ or ㄉㄉㄉ--ㄉ
 - 全身放鬆（嘴巴不要咬太緊，肚子用力，力量放在鎖骨，肩膀放下
+- 維持氣柱的長跟深！
 
 # 10.4
 
