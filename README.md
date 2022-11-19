@@ -12,6 +12,16 @@ Repo for all the note for clarinet-learning
 - 低音F -> A
 - 低音C -> A
 
+# 11.15
+注意指法音階lesson-10 ex7
+- C -> G -> C -> A -> C -> Bb
+- Bb -> E
+氣要撐四小節，點音要點對
+下巴的張力要維持住
+舌頭的位置不能掉下來
+Lesson-10
+Lesson-11
+
 # 11.8
 第一個音就要吹到位，前提是把上一口氣全部吐掉
 氣必須維持住，獨立於音
