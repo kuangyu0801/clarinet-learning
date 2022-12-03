@@ -12,6 +12,11 @@ Repo for all the note for clarinet-learning
 - 低音F -> A
 - 低音C -> A
 
+# 11.29
+
+肚子用力、吸足氣吹到底
+Bb -> A 指尖要往下、手指確定都要按在吹孔上面
+Lesson-12   
 # 11.15
 注意指法音階lesson-10 ex7
 - C -> G -> C -> A -> C -> Bb
