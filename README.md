@@ -14,7 +14,7 @@ Repo for all the note for clarinet-learning
 
 # 11.29
 
-肚子用力、吸足氣吹到底
+肚子用力、吸足氣吹到底、 這一點至關重要，嘴巴會感到酸是因為力出不足所以在幫補
 Bb -> A 指尖要往下、手指確定都要按在吹孔上面
 Lesson-12   
 # 11.15
