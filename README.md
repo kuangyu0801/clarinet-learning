@@ -12,6 +12,18 @@ Repo for all the note for clarinet-learning
 - 低音F -> A
 - 低音C -> A
 
+# 12.22
+
+- 高音B , A , G, D, C互換氣要連吹深想低音
+- 嘴巴放鬆氣送快
+- lesson
+Clarinet Student
+  - lesson 14
+  - lession 13 ex4 Grandfather's clock, ex5 Gypsy Sweetheart, ex9 Hymn
+Tunes:
+  - p7 The band played on.
+  - p8 Alla turca
+
 # 12.13
 
 找到一個固定放鬆嘴的位置
