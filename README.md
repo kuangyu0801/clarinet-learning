@@ -12,6 +12,9 @@ Repo for all the note for clarinet-learning
 - 低音F -> A
 - 低音C -> A
 
+# 12.27
+- 吹低的時候要氣深，想到音吹，喉嚨O
+
 # 12.22
 
 - 高音B , A , G, D, C互換氣要連吹深想低音
