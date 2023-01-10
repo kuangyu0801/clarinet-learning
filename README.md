@@ -12,8 +12,15 @@ Repo for all the note for clarinet-learning
 - 低音F -> A
 - 低音C -> A
 
+# 1.9
+- Bb 轉 D 左手按起要果決
+- D# 在C, B轉換的時候只能按左手
+- G, A 轉B, 可以先按住右手吹連音
+
+
 # 12.27
 - 吹低的時候要氣深，想到音吹，喉嚨O
+- 高音吹丟的時候吹E
 
 # 12.22
 
