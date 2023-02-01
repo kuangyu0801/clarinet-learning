@@ -12,6 +12,12 @@ Repo for all the note for clarinet-learning
 - 低音F -> A
 - 低音C -> A
 
+# 1.30
+- 下巴要拉
+- 手舌協調
+- L15: ex 6/7/8
+- L16: 自己練
+- Melody: p9 Bicycle Build For Two
 # 1.9
 - Bb 轉 D 左手按起要果決
 - D# 在C, B轉換的時候只能按左手
