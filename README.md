@@ -12,6 +12,13 @@ Repo for all the note for clarinet-learning
 - 低音F -> A
 - 低音C -> A
 
+# 2.9
+- G C 口要放鬆，氣深: L15 ex 6
+- F# 有特別指法: L16 ex 3
+- A Bb C的指法轉換L16 ex 6
+- Others L15 
+- L17
+
 # 1.30
 - 下巴要拉
 - 手舌協調
