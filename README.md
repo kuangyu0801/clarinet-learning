@@ -12,6 +12,16 @@ Repo for all the note for clarinet-learning
 - 低音F -> A
 - 低音C -> A
 
+# 2.23
+- 高音轉低音的氣住練習
+- A或G -> B/C往往比下來難很多
+- 先吹高音再吹低音記住氣柱的樣子
+- 連貫圓滑氣要滿
+嘴巴脖子都要放鬆
+- 送氣的方式一樣可以反練, 先吸氣維持嘴型, 然後再送氣
+- L18 ex 8
+- p8 Dance,  p9 Caamptown Races
+
 # 2.16
 - G C 口要放鬆，氣深: L15 ex 6
 - 記得高音一定要吹深
