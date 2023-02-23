@@ -25,6 +25,8 @@ Repo for all the note for clarinet-learning
 # 2.16
 - G C 口要放鬆，氣深: L15 ex 6
 - 記得高音一定要吹深
+- 加強八度 （豎笛是12度高低音差）
+- A, B, C轉換
 
 # 2.9
 - G C 口要放鬆，氣深: L15 ex 6
