@@ -12,6 +12,15 @@ Repo for all the note for clarinet-learning
 - 低音F -> A
 - 低音C -> A
 
+# 3.2
+- 音要切分吹，兩個音一組，連、慢
+- A <-> C, Bb <-> D
+- D <-> F 手速要快
+- 低音E本來就會不準
+- 姿勢要注意，有時候吹一吹會往下滑，必要的話要往門牙內側頂
+- L18 ex2, ex4
+- p11 Theme From High School, Home Sweet Home
+
 # 2.23
 - 高音轉低音的氣住練習
 - A或G -> B/C往往比下來難很多
