@@ -11,11 +11,15 @@ Repo for all the note for clarinet-learning
 - 低音E -> A
 - 低音F -> A
 - 低音C -> A
+- A <-> C, Bb <-> D
 
 # 3.9
 - 練習嘴巴放鬆, 很緩慢的送氣, 氣要從肚子裡面出來, 不能夠發出聲音, 之後加快氣直到達到深度
 - 維持好嘴型, E嘴型是指下巴收的情況, 舌頭往上
 - 藉由按兩隻食指，確保左食指下方的鍵是按緊的
+- L19
+- p11 Rainbow Theme, p12 Sleeping Beauty Waltz
+
 
 # 3.2
 - 音要切分吹，兩個音一組，連、慢
