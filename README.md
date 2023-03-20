@@ -15,7 +15,10 @@ Repo for all the note for clarinet-learning
 
 # 3.16
 Bb的左手要動作大方便自己按
-跳音, 點放點,但是舌頭要小
+跳音staccato, 點放點,但是舌頭要小
+- 只能舌頭動, 下頜完全不可以動
+- 發音是taa taa taa
+- https://youtu.be/mEENqe_M1_M
 
 # 3.9
 - 練習嘴巴放鬆, 很緩慢的送氣, 氣要從肚子裡面出來, 不能夠發出聲音, 之後加快氣直到達到深度
