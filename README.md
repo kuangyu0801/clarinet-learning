@@ -13,6 +13,14 @@ Repo for all the note for clarinet-learning
 - 低音C -> A
 - A <-> C, Bb <-> D
 
+# 3.23
+- 點音staccato
+舌頭放鬆
+重低音往下吹
+一次復制一個音
+用耳朵去聽聲音到底對不對，而不要去想舌頭位置
+用舌頭把氣堵住，所以沒有聲音的時候氣是被憋著的
+
 # 3.16
 Bb的左手要動作大方便自己按
 跳音staccato, 點放點,但是舌頭要小
