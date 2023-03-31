@@ -13,6 +13,14 @@ Repo for all the note for clarinet-learning
 - 低音C -> A
 - A <-> C, Bb <-> D
 
+# 3.30
+
+- 下唇頂住讓音變得飽滿
+- L20 
+- L21 跳音
+- 跳音: 先吹連音，舌頭不要太大，同一口氣
+- p12 Sleeping Beauty Waltz, 大三拍
+
 # 3.23
 - 點音staccato
 舌頭放鬆
