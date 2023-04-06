@@ -13,6 +13,15 @@ Repo for all the note for clarinet-learning
 - 低音C -> A
 - A <-> C, Bb <-> D
 
+
+# 4.6
+
+- L21 跳音
+要一口氣吹，千萬不能加力但是要撐住
+練習方法: 連音->點音->跳音
+就算是吹中央都的一口氣也要到高音都的位置
+簡而言之就是氣柱的長度要一直維持著
+
 # 3.30
 
 - 下唇頂住讓音變得飽滿
@@ -20,7 +29,7 @@ Repo for all the note for clarinet-learning
 - L21 跳音
 - 跳音: 先吹連音，舌頭不要太大，同一口氣
 - p12 Sleeping Beauty Waltz, 大三拍
-
+- B的另外一個按法（忘記是跟哪首曲子配合）
 # 3.23
 - 點音staccato
 舌頭放鬆
@@ -48,7 +57,7 @@ Bb的左手要動作大方便自己按
 - 音要切分吹，兩個音一組，連、慢
 - A <-> C, Bb <-> D
 - D <-> F 手速要快
-- 低音E本來就會不準
+- 低音E本來就會不準（送氣正確的情況還是可以準的）
 - 姿勢要注意，有時候吹一吹會往下滑，必要的話要往門牙內側頂
 - L18 ex2, ex4
 - p11 Theme From High School, Home Sweet Home
