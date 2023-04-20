@@ -12,7 +12,18 @@ Repo for all the note for clarinet-learning
 - 低音F -> A
 - 低音C -> A
 - A <-> C, Bb <-> D
+- 跳音
+- 高音到低音氣場的轉換
 
+# 4.20
+- L22 ex 5, 6, 7
+- p12 She'll Be Comin' Round The Mountain 低音的氣一開始就要出來
+- p12 Theme from High School Cadet March: 重音可以用跳的方式強調
+- p13 Fiesta
+- p13 Long Long Ago
+- Bb的一個半音轉換指法：C B Bb A
+- 身體注意不要越吹越低
+- 第一口氣就要吹到Bell
 # 4.13
 - L22 ex3 跳音、ex4流暢點音
 放鬆笛不要往下，肩不要往上
