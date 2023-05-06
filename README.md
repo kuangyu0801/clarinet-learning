@@ -15,6 +15,15 @@ Repo for all the note for clarinet-learning
 - 跳音
 - 高音到低音氣場的轉換
 
+# 5.4
+
+半音的音階必須非常熟練(C, C#, D, D#, E, F, F#, G) L23 ex2
+要嘗試練習下巴有沒有拉到
+要再是一個放鬆的狀態
+氣必需均勻的出來：https://youtu.be/XkBk7Wg_KBQ
+
+- p14 Russian Melody, p14,15都可吹吹不難
+
 # 4.20
 - L22 ex 5, 6, 7
 - p12 She'll Be Comin' Round The Mountain 低音的氣一開始就要出來
