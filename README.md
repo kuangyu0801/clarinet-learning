@@ -15,6 +15,13 @@ Repo for all the note for clarinet-learning
 - 跳音
 - 高音到低音氣場的轉換
 
+# 5.11
+
+- 魚ㄩ嘴型小力,拉也是,下巴要平，喉音高音可以聽出來差異
+
+- 練習從低音E到G的半音階 L23 ex3
+- L23, ex9, L24
+- https://youtu.be/VAwHFPb71KI
 # 5.4
 
 半音的音階必須非常熟練(C, C#, D, D#, E, F, F#, G) L23 ex2
