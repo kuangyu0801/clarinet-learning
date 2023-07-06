@@ -16,6 +16,18 @@ Repo for all the note for clarinet-learning
 - 跳音
 - 高音到低音氣場的轉換＃
 
+
+## 7.2
+
+吹連音的時候要想ㄋㄩㄝ
+F到P氣量小但是速度一致，最後沒有聲音的時候圖片還要忍是震動的
+
+2/4拍的相通拍6/8, 4/4是12/8
+L28
+L27 ex7,8, 從3/4改到3/8但是速度要一致
+
+melody: p16: variation o a famous theme.
+
 ## 6.27
 
 吸一拍吹八拍
