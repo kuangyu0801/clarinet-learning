@@ -16,7 +16,18 @@ Repo for all the note for clarinet-learning
 - 跳音
 - 高音到低音氣場的轉換＃
 
+## 7.18
 
+轉高音的時候，笛子不要掉，也不要壓笛子，對抗的方法就是吹高音的時候要頂
+高音的時候記得要吹更深，回低音的時候不要太縮
+G4,A4要hold住,不能掉音
+
+L29 ex2 C3->G4這種要靠點音，手指斜著擠
+L29 ex1 半音階
+
+
+melody: p16: variation o a famous theme: Scale variationII in Key of F
+p17: 大跨距
 ## 7.2
 
 吹連音的時候要想ㄋㄩㄝ
