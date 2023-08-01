@@ -16,6 +16,23 @@ Repo for all the note for clarinet-learning
 - 跳音
 - 高音到低音氣場的轉換＃
 
+## 8.
+
+- 吹得時候到底要想什麼音
+
+
+## 8.1
+
+- 注意舌根要抬起，不要往後
+- L30, 點音要注意到氣有到位，並且每個音確實點到
+- 跳音要注意不要抱
+- L30 ex5: C4的左手, Eb4轉換
+
+melody: p16: variation o a famous theme.
+- scale variation in F, 下巴要記得拉
+p18: variation o a famous theme.
+- scale variation in C
+
 ## 7.18
 
 轉高音的時候，笛子不要掉，也不要壓笛子，對抗的方法就是吹高音的時候要頂
