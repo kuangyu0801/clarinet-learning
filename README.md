@@ -17,9 +17,16 @@ Repo for all the note for clarinet-learning
 - 高音到低音氣場的轉換＃
 
 ## 8.
-
 - 吹得時候到底要想什麼音
 
+## 8.8
+
+- 舌頭跟下巴一開始就要到位
+- 十六分音符是一定要想成舌頭黏在竹片上，然後拔開
+- D6, 要脖子拉，氣要吹深
+- 撥線，氣要快壓力夠大
+- L31 ex.1,2,3,4,5
+- Roses from the south
 
 ## 8.1
 
@@ -45,6 +52,7 @@ L29 ex1 半音階
 
 melody: p16: variation o a famous theme: Scale variationII in Key of F
 p17: 大跨距
+
 ## 7.2
 
 吹連音的時候要想ㄋㄩㄝ
