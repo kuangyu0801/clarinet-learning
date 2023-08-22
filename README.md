@@ -19,6 +19,16 @@ Repo for all the note for clarinet-learning
 ## 8.
 - 吹得時候到底要想什麼音
 
+
+# 8.22
+
+- 練習：先把氣的速度、手的熟練度抓住，最後再跟著音決定氣的深度
+- 注意常常吹不動，嘴把太緊、氣沒有繼續給
+- 共鳴點要抓到在鼻腔額頭的位置，喉嚨O一點
+
+L33 Eb大調, 重點是氣一定要均勻
+, 胡桃鉗要吹到高音C的就好, 再深會在其他音的時候吹爆掉
+L32 ex.5 Morris Dance
 ## 8.15
 
 - 左右手的都可以有兩種指法C4# B3
@@ -43,6 +53,8 @@ Repo for all the note for clarinet-learning
 - L30, 點音要注意到氣有到位，並且每個音確實點到
 - 跳音要注意不要抱
 - L30 ex5: C4的左手, Eb4轉換
+- 點音要都點到，氣一開始要出來但是不能太大
+- 跳音不要跳了之後把氣都放掉
 
 melody: p16: variation o a famous theme.
 - scale variation in F, 下巴要記得拉
