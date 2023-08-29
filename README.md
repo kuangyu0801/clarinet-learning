@@ -19,6 +19,13 @@ Repo for all the note for clarinet-learning
 ## 8.
 - 吹得時候到底要想什麼音
 
+# 8.29
+
+挑選竹片，太厚的可以用1200的砂紙去磨
+要注意的就是氣的持續性，一定要夠深，可以靠半蹲靠牆法（腰頂滿）練習棒式持續出力
+換課本: 
+Clarient Student: Intermediate
+L32 ex.5 Morris Dance A3到A4要注意喉嚨不能開掉
 
 # 8.22
 
