@@ -16,8 +16,24 @@ Repo for all the note for clarinet-learning
 - 跳音
 - 高音到低音氣場的轉換＃
 
+# Equipment Upgrade
+
+- Mouthpiece
+- Ligature
+  - current: D’Addario H-Ligature & Cap, Bb Clarinet, Gold-plated
+  - 2. Silverstein Works Hexa Ligature – Best Premium Clarinet Ligature USD320
+ - ORIGINAL CLARINET LIGATURE – GEN. 5 (165)
+- Stand
+
 ## 8.
 - 吹得時候到底要想什麼音
+
+# 9.5
+
+- Technic P19.20. 視譜, 看調, 想節奏, 指法
+  - 進行曲, 有首尾 , 弱起拍
+- Technic: p18 Scale in Variaction C and F
+  - F#, G#是一個淺dip
 
 # 8.29
 
