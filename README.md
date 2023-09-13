@@ -24,9 +24,25 @@ Repo for all the note for clarinet-learning
   - 2. Silverstein Works Hexa Ligature – Best Premium Clarinet Ligature USD320
  - ORIGINAL CLARINET LIGATURE – GEN. 5 (165)
 - Stand
+品牌：德國 K&M
+
+型號：15228 豎笛架 (短但適用bell分開組裝)
+K&M 15228 and 15222 Clarinet Stands
+
 
 ## 8.
 - 吹得時候到底要想什麼音
+
+
+
+
+# 9.12
+
+
+身體要注意不要越吹越低
+不要cu起來，打開身體拉高脖子
+D3, G4, G2跨度比較大要注意整個氣方向應該往下，不然會爆掉
+Technic: L2, 要想好氣的深度
 
 # 9.5
 
