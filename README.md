@@ -2,12 +2,12 @@
 
 Repo for all the note for clarinet-learning
 
-# FAQ
+## FAQ
 
 - 音吹不準：舌頭的位置要往上
 - 吹起來很費力，好像風速都沒辦法被轉成聲音：嘴巴要完全放鬆，用丹田出力
 
-# Practice
+## Practice
 
 - 難練地方
   - L25 ex3半音階, ex4 Bb音階
@@ -18,7 +18,7 @@ Repo for all the note for clarinet-learning
 - 跳音
 - 高音到低音氣場的轉換＃
 
-# Equipment Upgrade
+## Equipment Upgrade
 
 - Mouthpiece
 - Ligature
@@ -34,6 +34,15 @@ K&M 15228 and 15222 Clarinet Stands
 ## 8
 
 - 吹得時候到底要想什麼音
+
+## 12.19
+
+- 下巴要拉，下唇要頂, 下唇不頂竹片會接觸面太大
+- p10-ex4 音階轉換聲音要明確，可以從兩連音，一路到一整個小節
+  - 音階先想音, 再想指法
+- 跳音的氣要長於舌頭, 氣要一直輸出
+- p10-ex1 最後兩小節 C6, D6 氣集中，細與快，舌頭短，喉嚨寬
+- 吹到不行的時候就完全放空
 
 ## 12.5
 
