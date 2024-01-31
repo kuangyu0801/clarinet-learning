@@ -17,6 +17,7 @@ Repo for all the note for clarinet-learning
 - A <-> C, Bb <-> D
 - 跳音
 - 高音到低音氣場的轉換＃
+- level2 p13 ex 1
 
 ## Equipment Upgrade
 
@@ -34,6 +35,13 @@ K&M 15228 and 15222 Clarinet Stands
 ## 8
 
 - 吹得時候到底要想什麼音
+
+## 1.30
+
+- p13 ex1: 嘴巴要放鬆, 不能夠咬緊, 氣才出的來, 要想像一下竹子孔固定而不是水管
+- 氣要一直維持住
+- p14 ex2,3
+- tunes for clarinet
 
 ## 1.23
 
