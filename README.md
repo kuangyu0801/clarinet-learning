@@ -22,6 +22,7 @@ Repo for all the note for clarinet-learning
 ## Equipment Upgrade
 
 - Mouthpiece
+  - Vandoren Black Diamond BD5 Bb clarinet mouthpiece
 - Ligature
   - current: D’Addario H-Ligature & Cap, Bb Clarinet, Gold-plated
   - 2. Silverstein Works Hexa Ligature – Best Premium Clarinet Ligature USD320
