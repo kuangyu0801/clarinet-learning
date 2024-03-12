@@ -47,7 +47,7 @@ K&M 15228 and 15222 Clarinet Stands
 
 - p16 ex2 節奏1V2V
 - p17 再複習
-- task: 錄音、學習感受下巴拉
+- task: 吹長音、錄音、學習感受下巴拉
 
 ## 3.5
 
