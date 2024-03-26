@@ -22,20 +22,29 @@ Repo for all the note for clarinet-learning
 ## Equipment Upgrade
 
 - Mouthpiece
-  - Vandoren Black Diamond BD5 Bb clarinet mouthpiece
+  - Vandoren Black Diamond BD4 Bb(CM1004) clarinet mouthpiece: TWD 3200
 - Ligature
   - current: D’Addario H-Ligature & Cap, Bb Clarinet, Gold-plated
-  - 2. Silverstein Works Hexa Ligature – Best Premium Clarinet Ligature USD320
+  - Silverstein Works Hexa Ligature – Best Premium Clarinet Ligature USD320
 - ORIGINAL CLARINET LIGATURE – GEN. 5 (165)
 - Stand
-品牌：德國 K&M
+ - 德國 K&M, 型號：15228 豎笛架 (短但適用bell分開組裝)
 
-型號：15228 豎笛架 (短但適用bell分開組裝)
-K&M 15228 and 15222 Clarinet Stands
+## Tunes for constant practice
+
+- p16 ex6 Prelude
+- p17 ex6 Stars and Stripes Forever
 
 ## 8
 
 - 吹得時候到底要想什麼音
+
+## 3.26
+
+- p17 ex3 不能掉
+- p17 ex6 重音後半拍，要抓跨距換氣
+- p18 ex 自己練習氣要平均, 不要越吹越低
+練習：試試看可以先把譜背下來
 
 ## 3.19
 
