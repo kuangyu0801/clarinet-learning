@@ -39,6 +39,17 @@ Repo for all the note for clarinet-learning
 
 - 吹得時候到底要想什麼音
 
+## 4.23
+
+Exercise:
+
+- p18 ex 2
+- p19 ex 2 最後4小節
+- P20 ex4 重輕輕，舌頭有暗回去但是不能夠太早案
+- p21 ex 1 C的泛音，喉嚨要張開
+- p21 ex3往下行吹力量不能放跟p20 ex5一樣
+
+
 ## 4.16
 
 練習音準
