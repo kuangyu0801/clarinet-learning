@@ -39,6 +39,14 @@ Repo for all the note for clarinet-learning
 
 - 吹得時候到底要想什麼音
 
+## 4.30
+
+Exerciese:
+- p23
+- p21 ex1, ex2 高音C D E要hold住在一個恰到剛好的位置，hold太高會爆掉, 太低會出不來
+  - 尤其高音要微微打開喉嚨，像是打哈欠一樣，讓喉嚨的拉力跟氣的下沖形成張力
+- p20 ex5, 氣要全部用完並且從深的出發，不要擠在胸腔
+
 ## 4.23
 
 Exercise:
