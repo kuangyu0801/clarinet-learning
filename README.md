@@ -39,6 +39,16 @@ Repo for all the note for clarinet-learning
 
 - 吹得時候到底要想什麼音
 
+## 5.7
+
+- p21 ex1, ex2 高音C D E要hold住在一個恰到剛好的位置
+  - 吹高音不要改變太大用力過猛
+  - 氣深、氣快、氣集中
+  - 可以從G3 F4去練
+- p22 D minor, Bb C#
+- 合聲音階，6-7音聽起來跨三度
+
+不要想過高
 ## 4.30
 
 Exerciese:
