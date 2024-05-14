@@ -28,7 +28,7 @@ Repo for all the note for clarinet-learning
   - Silverstein Works Hexa Ligature – Best Premium Clarinet Ligature USD320
 - ORIGINAL CLARINET LIGATURE – GEN. 5 (165)
 - Stand
- - 德國 K&M, 型號：15228 豎笛架 (短但適用bell分開組裝)
+- 德國 K&M, 型號：15228 豎笛架 (短但適用bell分開組裝)
 
 ## Tunes for constant practice
 
@@ -38,6 +38,18 @@ Repo for all the note for clarinet-learning
 ## 8
 
 - 吹得時候到底要想什麼音
+
+## 5.14
+
+- 氣要從肚子出來，坐在椅子上感受尾椎出力的位置，要出的深才可以大口吸進去，不要只集中在上半身
+  - 怎麼進怎麼出
+- 高音用力過猛的問題，可以從吹出最小聲音
+- 喉音區要往深裡吹，E3用先吹低音E2感受
+
+Exercise:
+
+- p22 d minor, e minor
+- p24 Bb大調
 
 ## 5.7
 
@@ -49,9 +61,11 @@ Repo for all the note for clarinet-learning
 - 合聲音階，6-7音聽起來跨三度
 
 不要想過高
+
 ## 4.30
 
 Exerciese:
+
 - p23
 - p21 ex1, ex2 高音C D E要hold住在一個恰到剛好的位置，hold太高會爆掉, 太低會出不來
   - 尤其高音要微微打開喉嚨，像是打哈欠一樣，讓喉嚨的拉力跟氣的下沖形成張力
@@ -66,7 +80,6 @@ Exercise:
 - P20 ex4 重輕輕，舌頭有暗回去但是不能夠太早案
 - p21 ex 1 C的泛音，喉嚨要張開
 - p21 ex3往下行吹力量不能放跟p20 ex5一樣
-
 
 ## 4.16
 
@@ -165,8 +178,8 @@ p13 ex3,4節奏注意
 
 ## 1.23
 
-- P12, ex3, 可以先用4-8拍再算 
-- P13, ex1 三種吹法 
+- P12, ex3, 可以先用4-8拍再算
+- P13, ex1 三種吹法
   - 就算只有三個音心中要默默數四拍 1（2）3 4
   - 目標：每一個音要一致
   - 點音都要點在一個位置，速度要平均，氣要平均
