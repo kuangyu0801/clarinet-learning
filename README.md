@@ -39,6 +39,15 @@ Repo for all the note for clarinet-learning
 
 - 吹得時候到底要想什麼音
 
+## 6.4
+
+E6要撐住，C4, G5喉嚨先張好氣要快！
+平常可以嘴巴拉好，練習ddd，嘴巴要放鬆舌頭才可以點的快
+- Eb指法不要動太大, 記得Eb
+- Exercise: p24
+- p22 ex7, 指法 E3(R), F3#(L), 保持跟B4(R), C5(L)一致
+- p22 E minor
+
 ## 5.21
 
 - Bb調中Bb不好吹，要集中氣吹深, Eb不要記得吹
