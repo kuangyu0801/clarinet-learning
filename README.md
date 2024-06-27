@@ -39,6 +39,12 @@ Repo for all the note for clarinet-learning
 
 - 吹得時候到底要想什麼音
 
+## 6.25
+
+- p24 ex5, 用唱的方式來排練表現（大小聲、快慢）要有圓滑感：漸強漸弱的表現
+- p25 Musette ,第九小節, A B 點收 跳 C
+- ex p26, E7b
+
 ## 6.11
 
 - 要維持住氣的張力, 氣有力但是手跟嘴要放鬆
