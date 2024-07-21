@@ -39,6 +39,22 @@ Repo for all the note for clarinet-learning
 
 - 吹得時候到底要想什麼音
 
+## 7.11
+
+- 手嘴都要放送放鬆，但氣要挺住
+- p26 ex7 附點要更靠後面（下一拍
+- 連音的時候同音要點
+- 三連音，舌頭要足夠放鬆
+
+C7#的指法注意
+A4-B4-C#5這段, 尤其是全空到全開，一定要吹深
+
+Exercise:
+
+- p27 D major
+- On a Clear Day, Kiki's Delivery Service: 心裡要有大樂句
+- The Bygone Days (Porco Rosso) - Joe Hisaishi: 要更圓潤
+
 ## 7.3
 
 - p26 ex1, E7嘴巴要放鬆，但是喉嚨要頂住 
