@@ -39,6 +39,16 @@ Repo for all the note for clarinet-learning
 
 - 吹得時候到底要想什麼音
 
+## 7.17
+
+- p27, D major, E5->C5#的指法無名指跟小指要一起按
+- 注意嘴形不要有帶長的動作,吹C6, C6#, D6, E6
+- Hold住嘴型，不要壓，可以解決90%的問題
+[Circle of Fifths](doc/circle-of-fifths.pdf)
+
+[宮崎峻p18 the begone days](https://drive.google.com/drive/folders/19is8K1wrWkC4EYMSrhAV6EjNaKKJP8Kc?usp=drive_link)
+- 注意強弱, f代表高潮, Bridge漸強
+
 ## 7.11
 
 - 手嘴都要放送放鬆，但氣要挺住
