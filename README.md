@@ -34,10 +34,19 @@ Repo for all the note for clarinet-learning
 
 - p16 ex6 Prelude
 - p17 ex6 Stars and Stripes Forever
+- p28 ex4 練手速練氣
 
 ## 8
 
 - 吹得時候到底要想什麼音
+
+## 8.14
+
+- p28 ex4: 圓滑要做出來
+- p29 ex2: 半音最高可以到E
+- p29 ex5: 後起拍
+- exercise p29
+
 
 ## 8.6
 
