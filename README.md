@@ -40,6 +40,14 @@ Repo for all the note for clarinet-learning
 
 - 吹得時候到底要想什麼音
 
+## 9.10
+
+- Goal: p29-ex2無腦滑順半音階,4個音
+- p29 ex4: 兩個連音之後, 學會放音（先吹滿音然後放掉）
+- p29 ex5: 22拍, 弱起拍, 後半拍
+嘴巴不要咬住，要上氣從肚子出來
+- exercise: p30
+
 ## 8.21
 
 - Goal: 無腦滑順半音階
