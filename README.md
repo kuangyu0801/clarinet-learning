@@ -35,10 +35,17 @@ Repo for all the note for clarinet-learning
 - p16 ex6 Prelude
 - p17 ex6 Stars and Stripes Forever
 - p28 ex4 練手速練氣
-
-## 8
-
+- p29-ex2無腦滑順半音階,4個音
 - 吹得時候到底要想什麼音
+
+## 9.18
+
+- 高音降B的另外指法
+- 點音舌頭, 必須要夠放鬆
+- 氣就像想像水車要一直輪轉下去
+- 泛音
+  - B3b F4 C5#
+  - C4# G5# F6
 
 ## 9.10
 
