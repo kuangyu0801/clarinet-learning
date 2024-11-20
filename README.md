@@ -37,6 +37,18 @@ Repo for all the note for clarinet-learning
 - p28 ex4 練手速練氣
 - p29-ex2無腦滑順半音階,4個音
 - 吹得時候到底要想什麼音
+- p31-ex3
+
+## 11.20
+
+- exercise p32
+- ex1 喉嚨要拉開
+- ex2 圓滑3音, 要用舌頭蓋上斷開, 才可以跳第4音
+
+## 11.13
+
+- 手速目標練到: 八分音符168- （四分音符92）
+- p31 ex3 A3 左手小指可以放在 跟 右手可以全按, 第25小節
 
 ## 10.29
 
@@ -85,7 +97,6 @@ Repo for all the note for clarinet-learning
 - p29 ex5: 後起拍
 - exercise p29
 
-
 ## 8.6
 
 - p28 ex4, ex5 看似簡單實則難
@@ -98,7 +109,7 @@ Repo for all the note for clarinet-learning
 ## 7.31
 
 - p27 ex7 連音先收, 後面才起跳
-- C6 
+- C6
 - 宮崎峻p18 the begone days, B->D氣跟喉嚨都要先準備好
 
 ## 7.17
@@ -109,6 +120,7 @@ Repo for all the note for clarinet-learning
 [Circle of Fifths](doc/circle-of-fifths.pdf)
 
 [宮崎峻p18 the begone days](https://drive.google.com/drive/folders/19is8K1wrWkC4EYMSrhAV6EjNaKKJP8Kc?usp=drive_link)
+
 - 注意強弱, f代表高潮, Bridge漸強
 
 ## 7.11
@@ -129,7 +141,7 @@ Exercise:
 
 ## 7.3
 
-- p26 ex1, E7嘴巴要放鬆，但是喉嚨要頂住 
+- p26 ex1, E7嘴巴要放鬆，但是喉嚨要頂住
 - p26 ex4, 5 相通拍, 三連音不要吹成跳
 - p26 ex7 5小節數拍, 不要太快, 切3/4, 1/4, 可以搭配節拍器subdivision去數
 
@@ -151,6 +163,7 @@ Exercise:
 
 E6要撐住，C4, G5喉嚨先張好氣要快！
 平常可以嘴巴拉好，練習ddd，嘴巴要放鬆舌頭才可以點的快
+
 - Eb指法不要動太大, 記得Eb
 - Exercise: p24
 - p22 ex7, 指法 E3(R), F3#(L), 保持跟B4(R), C5(L)一致
