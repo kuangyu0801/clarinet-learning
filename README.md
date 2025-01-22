@@ -39,6 +39,13 @@ Repo for all the note for clarinet-learning
 - 吹得時候到底要想什麼音
 - p31-ex3
 
+## 1.22
+
+- 實驗出來放鬆的吹法:1.嘴放鬆 2.豎笛不要掉 3.頂門牙
+  - 練習, 三階泛音：Bb2 -> F4 -> D5, C3 -> G4 -> E5
+- p34 ex1 T依依(回點)TTTT
+- p35 ex1 key of Eb, Bb3另外的指法要固定
+
 ## 1.15
 
 - 左手起伏不要過高
@@ -53,7 +60,7 @@ Repo for all the note for clarinet-learning
 - p34
 - p35 ex1 key of Eb, Bb3另外的指法
 
-## 12.25
+## 24' 12.25
 
 General:
 
