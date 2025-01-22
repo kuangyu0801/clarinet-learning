@@ -39,6 +39,20 @@ Repo for all the note for clarinet-learning
 - 吹得時候到底要想什麼音
 - p31-ex3
 
+## 1.15
+
+- 左手起伏不要過高
+- 氣在高音D5的時候要注意集中
+- 喉音區跟高音都要事先準備好撐住喉嚨
+
+- p35 Bb大調, 第20小節, Bb C加強，只動兩隻手指
+- 分段練
+
+## 25' 1.8
+
+- p34
+- p35 ex1 key of Eb, Bb3另外的指法
+
 ## 12.25
 
 General:
