@@ -44,6 +44,7 @@ Repo for all the note for clarinet-learning
 - 實驗出來放鬆的吹法:1.嘴放鬆 2.豎笛不要掉 3.頂門牙
   - 練習, 三階泛音：Bb2 -> F4 -> D5, C3 -> G4 -> E5
 - p34 ex1 T依依(回點)TTTT
+- p34 ex3 第一小節的B要跟D,Eb一樣深, 同理第六小節的A也要跟C,D一樣
 - p35 ex1 key of Eb, Bb3另外的指法要固定
 
 ## 1.15
