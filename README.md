@@ -24,11 +24,11 @@ Repo for all the note for clarinet-learning
 - Mouthpiece
   - Vandoren Black Diamond BD4 Bb(CM1004) clarinet mouthpiece: TWD 3200
 - Ligature
-  - current: D’Addario H-Ligature & Cap, Bb Clarinet, Gold-plated
-  - Silverstein Works Hexa Ligature – Best Premium Clarinet Ligature USD320
-- ORIGINAL CLARINET LIGATURE – GEN. 5 (165)
+  - current: D'Addario H-Ligature & Cap, Bb Clarinet, Gold-plated
+  - Silverstein Works Hexa Ligature - Best Premium Clarinet Ligature USD320
+- ORIGINAL CLARINET LIGATURE - GEN. 5 (165)
 - Stand
-- 德國 K&M, 型號：15228 豎笛架 (短但適用bell分開組裝)
+[x] 德國 K&M, 型號: 15228 豎笛架 (短但適用bell分開組裝)
 
 ## Tunes for constant practice
 
@@ -38,6 +38,7 @@ Repo for all the note for clarinet-learning
 - p29-ex2無腦滑順半音階,4個音
 - 吹得時候到底要想什麼音
 - p31-ex3
+- p34-ex1
 
 ## Practice These Frequently
 
@@ -48,6 +49,18 @@ Repo for all the note for clarinet-learning
         - Bb2 -> F4 -> D5,
         - C3 -> G4 -> E5
 - 跳音：氣千萬要足，舌頭一定要放鬆
+
+## 3.12
+
+1. p36
+
+- 高音的技巧: 氣深到D5並且集中、喉嚨撐住、頭延伸(但是不要拉): 高音 p36ex4
+- 跳音技巧: 先從舌頭最鬆弛的狀態開始, 點模糊也沒有關係: p34 ex1 
+
+## 2.26
+
+1. p34 ex.1
+2. p35 ex.7 圓滑，氣足
 
 ## 2.19
 
