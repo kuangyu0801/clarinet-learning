@@ -50,6 +50,26 @@ Repo for all the note for clarinet-learning
         - C3 -> G4 -> E5
 - 跳音：氣千萬要足，舌頭一定要放鬆
 
+## 有意識的練習：理解曲子，然後再練
+
+- 純看譜走過曲子一次
+
+## 6.25
+
+reivew
+
+- p43 ex3 Valse No 2
+  - 大跨距的音(A5->C5), 首要放鬆, 氣要深
+
+exercise
+
+- p43 ex4
+  - 大跨距的音(A5->C5), 首要放鬆, 氣要深
+- p44 (last page) ex3 可以想成附點
+- p44 ex4 Pizzicato Polka撥弦
+  - 點音的話記得舌頭要放鬆, 才有張力
+  - <https://youtu.be/N8X21sB_kck?si=ZOHMrEjg6T39FBQG>
+
 ## 6.18
 
 有意識的練習：理解曲子，然後再練
@@ -64,6 +84,7 @@ Repo for all the note for clarinet-learning
 - p43 ex3 Valse No 2
   - 確定拍子
   - 大跨距去想
+  - 大跨距的音(A5->C5), 首要放鬆, 氣要深
 
 ## 5.7
 
