@@ -54,6 +54,17 @@ Repo for all the note for clarinet-learning
 
 - 純看譜走過曲子一次
 
+## 7.2
+
+4度半音階吹泛音
+
+- G3# G3 F3# F3 E3
+- B3 G3# G3 F3# F3
+
+- 嘴放鬆，吹下行不要掉不要咬, 但要確保氣足
+Ex3 由後小節往前練
+Ex4 B一開始有出來
+
 ## 6.25
 
 reivew
