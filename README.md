@@ -2,6 +2,10 @@
 
 Repo for all the note for clarinet-learning
 
+## 重中之中
+
+氣足就佔80分, 心中要有旋律
+
 ## FAQ
 
 - 音吹不準：舌頭的位置要往上
@@ -54,6 +58,18 @@ Repo for all the note for clarinet-learning
 
 - 純看譜走過曲子一次
 
+## 7.8
+
+氣足佔80分, 心中有旋律
+
+- p44 Ex3
+  - 指法複雜要找關連的旋律，不要只是視譜
+- p44 ex4 撥弦要輕盈
+
+![](/tune/p44-ex3.jpg)
+
+專心的理由，分心的理由
+
 ## 7.2
 
 4度半音階吹泛音
@@ -61,9 +77,10 @@ Repo for all the note for clarinet-learning
 - G3# G3 F3# F3 E3
 - B3 G3# G3 F3# F3
 
+
 - 嘴放鬆，吹下行不要掉不要咬, 但要確保氣足
-Ex3 由後小節往前練
-Ex4 B一開始有出來
+- p44 Ex3 由後小節往前練
+- p44 Ex4 B一開始有出來
 
 ## 6.25
 
