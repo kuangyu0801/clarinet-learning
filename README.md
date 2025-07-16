@@ -58,6 +58,17 @@ Repo for all the note for clarinet-learning
 
 - 純看譜走過曲子一次
 
+## 7.16
+
+- p44 ex4
+  - 氣集中與快，靠的是的發力，然後嘴巴不要用力, 口腔要提高
+  - 點音必切的時候, 回去吹正常音, 像是B4就很容易開掉
+  - 上半身放鬆
+  - 不要把高音想的那麼難, 沒必要咬緊牙關
+- Exercise:
+- p43 ex4
+- p44 ex4
+
 ## 7.8
 
 氣足佔80分, 心中有旋律
@@ -76,7 +87,6 @@ Repo for all the note for clarinet-learning
 
 - G3# G3 F3# F3 E3
 - B3 G3# G3 F3# F3
-
 
 - 嘴放鬆，吹下行不要掉不要咬, 但要確保氣足
 - p44 Ex3 由後小節往前練
