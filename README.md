@@ -58,6 +58,34 @@ Repo for all the note for clarinet-learning
 
 - 純看譜走過曲子一次
 
+## 8.27
+
+- 四度泛音: G, G-sharp, A-flat
+
+| G | G-sharp | A-flat |
+|---|---------|--------|
+| ![G](tune/altissimo-clarinet-fingering-high-A.webp) | ![G-sharp](tune/altissimo-clarinet-fingering-high-G-2.webp) | ![A-flat](tune/altissimo-clarinet-fingering-high-G-sharp-A-flat.webp) |
+
+- p8 ex4: 進行曲的節奏要強, 點音要間距大要明確, ff不一定要強但是要亮
+- p9 ex1: 強在第一個音，延長是要後面要點回去
+
+- reference: <https://www.theclarinet.net/clarinet-fingering-charts/altissimo-register/how-to-play-altissimo-register-A-on-clarinet.html>
+
+## 8.20
+
+- Rondo上半截管音要注意
+- 高音的轉換：喉嚨要張開，共鳴要想的高在頭部，像女高音
+  - p8 ex1. G4 C5 E5, 在G的時候就要準備好
+- p8 ex3 吹慢要拉長音漸強，從一個音漸強到另外一個音, mf -> f
+
+## 8.6
+
+Level-3 !!!!!!
+
+- Rondo 下四度上四度，用聽的，共9個音
+- 按照符號吹,注意圓滑線
+- Ex4重拍在31
+
 ## 7.30
 
 吹的時候要記得有沒有飽滿那有飽滿的話跳音才會好聽，聽高音有沒有到，有沒有分岔
@@ -101,7 +129,7 @@ Repo for all the note for clarinet-learning
   - 指法複雜要找關連的旋律，不要只是視譜
 - p44 ex4 撥弦要輕盈
 
-![](/tune/p44-ex3.jpg)
+![p44-ex3 clarinet exercise](/tune/p44-ex3.jpg)
 
 專心的理由，分心的理由
 
