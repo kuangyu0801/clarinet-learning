@@ -58,13 +58,22 @@ Repo for all the note for clarinet-learning
 
 - 純看譜走過曲子一次
 
+## 9.9
+
+- p8 ex4: 最後兩個音長度要一樣
+- p9 ex1: 連蓋跳的感覺吹要點回去
+
+音在往下走，但整個動作不要跟著低
+
+把竹片前端壓直
+
 ## 8.27
 
 - 四度泛音: G, G-sharp, A-flat
 
 | G | G-sharp | A-flat |
 |---|---------|--------|
-| ![G](tune/altissimo-clarinet-fingering-high-A.webp) | ![G-sharp](tune/altissimo-clarinet-fingering-high-G-2.webp) | ![A-flat](tune/altissimo-clarinet-fingering-high-G-sharp-A-flat.webp) |
+| ![G](tune/altissimo-clarinet-fingering-high-G-2.webp) | ![G-sharp](tune/altissimo-clarinet-fingering-high-G-sharp-A-flat.webp) | ![A-flat](tune/altissimo-clarinet-fingering-high-A.webp) |
 
 - p8 ex4: 進行曲的節奏要強, 點音要間距大要明確, ff不一定要強但是要亮
 - p9 ex1: 強在第一個音，延長是要後面要點回去
