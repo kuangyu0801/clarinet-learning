@@ -58,6 +58,23 @@ Repo for all the note for clarinet-learning
 
 - 純看譜走過曲子一次
 
+## 9.16
+
+高音的時候要右手小指換
+泛音高音不要怕爆氣不要斷
+
+A  - E  - C# - G
+Bb - F  - D  - G#
+B' - F# - D#
+C  - G  - E  - A
+C# - G# - F
+D  - A -  F#
+
+': alternative fingering
+
+參考書：你有懼高症嗎？？：法式單簧管高音指法秘笈
+作者：林佩筠,閩子瑤
+
 ## 9.9
 
 - p8 ex4: 最後兩個音長度要一樣
