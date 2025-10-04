@@ -58,17 +58,30 @@ Repo for all the note for clarinet-learning
 
 - 純看譜走過曲子一次
 
+## 10.1
+
+- 高音G可以按左手無名指
+- p9 ex3: 弱起拍, 拍點明顯
+- p9 Ex3最後兩小節高音放
+- 學習找到呼吸地點
+
+exercise:
+
+- p10. ex5 一開始練習不要吹裝飾音
+
 ## 9.16
 
 高音的時候要右手小指換
 泛音高音不要怕爆氣不要斷
 
+```text
 A  - E  - C# - G
 Bb - F  - D  - G#
 B' - F# - D#
 C  - G  - E  - A
 C# - G# - F
 D  - A -  F#
+```
 
 ': alternative fingering
 
