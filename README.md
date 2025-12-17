@@ -59,6 +59,42 @@ Repo for all the note for clarinet-learning
 
 - 純看譜走過曲子一次
 
+## 12.17
+
+P13,EX5
+
+- 要按照譜吹，連點要注意
+
+P14,Ex1
+
+- 完全放掉再吸氣
+
+P14,Ex2
+
+- 嘴不動dddddd
+- 點音輕
+- 舌頭輕像打水漂、氣往前
+
+注意竹片在吹曲子的音色
+
+Exercise
+
+- [F Major](https://drive.google.com/file/d/1VkM8VNJSS-Xg_qdupJ7oHptturwwF3Dh/view?usp=sharing)
+
+## 12.10
+
+第一個音的兩個方向：氣的深度、共鳴的高度
+手指移動輕
+
+P14 ex4
+
+- 吹的時候不要這麼呆/直接
+- 每個小節都是同一個走勢
+
+Exercise
+
+- [F Major](https://drive.google.com/file/d/1VkM8VNJSS-Xg_qdupJ7oHptturwwF3Dh/view?usp=sharing)
+
 ## 11.26
 
 練慢練細緻確定每個音，深淺節奏點舌
