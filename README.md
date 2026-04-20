@@ -67,6 +67,15 @@ Repo for all the note for clarinet-learning
 - 氣要一步到位
 - 高音要往深的吹
 
+## 4.20
+
+- p19 ex3 圓滑要收要弱
+- p19 ex5 學習強重音
+- p20 ex1 注意雙升記號
+- p20 ex2, ex3 附點節奏
+
+## 3.23
+
 ## 3.11
 
 讀譜清楚
