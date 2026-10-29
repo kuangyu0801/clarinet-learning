@@ -67,6 +67,24 @@ Repo for all the note for clarinet-learning
 - 氣要一步到位
 - 高音要往深的吹
 
+## 10.28
+
+- 1. 音色跟著APP，上顎有撐住就不用喉嚨下顎擠
+- 1. 加壓等等就會大聲
+- 1. 圓弧線
+
+## 10.21
+
+- 收的優雅
+- 練習聽調音
+- CDCCEC
+- 要柔一點，同一個音兩拍也是要加壓銜接到下個音，才聽起來流暢
+- P30 E minor
+
+## 10.14
+
+- Melodious and progressive studies for clarinet
+- 目標：吹小聲、吹柔，但是氣還是在前進
 
 ## 8.11
 
